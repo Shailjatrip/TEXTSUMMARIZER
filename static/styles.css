@@ -1,0 +1,73 @@
+.jumbotron
+{
+    background-image:url('../static/ts.jpg');
+    background-size:80px 120px;
+    color: white;
+}
+body
+{
+    background: linear-gradient(to bottom, #000066 0%, black 100%);
+}
+
+    .original_title
+{
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    padding:2px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.summary_title
+{
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    padding:2px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.srt
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.originaltxt
+{
+    background-color: grey;
+    color:black;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.summarytxt
+{
+    background-color: grey;
+    color:black;
+    padding:20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.len_sum
+{
+    margin-left: 444px;
+}
+.heading
+{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.h4
+{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
